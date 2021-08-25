@@ -6,3 +6,5 @@
 📈📉 I love tradding in stock market, as it makes me financially independent therefor i can do whatever i want.
 
 ✈️ I love traveling as well, even though it's been some time since I last traveled. My last trip was a solo trip to Dubai in 2017. I actually having job in Al-Ras Deira as Logistics Coordinator.
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
