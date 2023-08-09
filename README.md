@@ -1,6 +1,6 @@
 ## About Me - Tabrez Dal
 
-👋 Hello! I'm Tabrez Dal, a passionate React JS Developer and UI/UX Designer with 5 years of hands-on experience in the IT industry. I'm also the proud founder of "TZ Creation," a thriving remote startup that focuses on delivering exceptional design and development solutions.
+👋 Hello! I'm [Tabrez Dal](https://tabrez.tzcreation.in/), a passionate React JS Developer and UI/UX Designer with 5 years of hands-on experience in the IT industry. I'm also the proud [founder of TZ Creation](https://ceo.tzcreation.in), a thriving remote startup that focuses on delivering exceptional design and development solutions.
 
 ### 🛠️ Tech Enthusiast
 I'm deeply enthusiastic about technology and have dedicated my career to mastering the art of creating engaging and user-centric web experiences. My journey began in the IT industry, where I've honed my skills in React JS development and UI/UX design. My proficiency in these domains enables me to seamlessly bridge the gap between functionality and aesthetics, crafting digital solutions that not only work flawlessly but also captivate users.
